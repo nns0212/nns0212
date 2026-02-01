@@ -1,4 +1,4 @@
-## Hi There 👋 This is Prasannaa
+## Hi There 👋 This is Pprasannaa
 
 Artificial Intelligence and Machine Learning Student
 ----------------------------------------------------
