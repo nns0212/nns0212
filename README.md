@@ -50,3 +50,5 @@ My experience includes working with **transformer-based models, retrieval-augmen
 
 <br/>
 <hr/>
+
+![snake gif](https://github.com/nns0212/nns0212/blob/output/github-snake-dark.svg)
