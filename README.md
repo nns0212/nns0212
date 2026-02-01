@@ -37,7 +37,7 @@ My experience includes working with **transformer-based models, retrieval-augmen
 <br/>
 
 <p align="center"> 
-  <a href="#" target="_blank">
+  <a href="#" target="https://www.linkedin.com/in/nnslink2402/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="#" target="_blank">
