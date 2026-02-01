@@ -40,7 +40,7 @@ My experience includes working with **transformer-based models, retrieval-augmen
   <a href="https://www.linkedin.com/in/nnslink2402/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+
 
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
